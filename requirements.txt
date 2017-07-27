@@ -1,0 +1,2 @@
+requests==2.18.2
+git+https://gitlab.com/iamale/defuse.git#egg=defuse
